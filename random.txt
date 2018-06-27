@@ -1,3 +1,9 @@
 spotify-this-song,"I Want it That Way"
 
-stopped at 9:29pm: I am at What Each Command Should Do
+tweets:
+quoted_status
+created_at
+text
+
+to install spotfi: npm install --save node-spotify-api
+
