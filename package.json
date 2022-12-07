@@ -20,7 +20,7 @@
   "dependencies": {
     "constant": "^1.0.2",
     "dotenv": "^6.0.0",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "file-system": "^2.2.2",
     "node-constants": "0.0.2",
     "node-spotify-api": "^1.0.7",
